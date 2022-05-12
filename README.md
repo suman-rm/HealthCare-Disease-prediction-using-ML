@@ -73,7 +73,7 @@ Prognosis
 
  - SOFTWARE REQUIREMENTS
  
-    Operating system: Windows 10/11 or later, macOS. 
+    Operating system: Windows or macOS. 
  
     Coding Language : Python
  
